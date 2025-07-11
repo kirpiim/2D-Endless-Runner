@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/halime/Desktop/2D endless runner/2DEndlessRunner/bin/Debug/net8.0/Content/gamefont.spritefont</SourceFile>
+  <SourceTime>2025-07-02T21:46:22.322964+08:00</SourceTime>
+  <DestFile>C:/Users/halime/Desktop/2D endless runner/2DEndlessRunner/bin/Debug/net8.0/Content/bin/DesktopGL/Content/gamefont.xnb</DestFile>
+  <DestTime>2025-07-02T21:53:21.6968743+08:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2025-06-02T18:31:02+08:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2025-06-02T18:31:02+08:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

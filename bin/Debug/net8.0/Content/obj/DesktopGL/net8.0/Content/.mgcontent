@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/halime/Desktop/2D endless runner/2DEndlessRunner/Content/background.png</File>
+    <File>C:/Users/halime/Desktop/2D endless runner/2DEndlessRunner/Content/bird.png</File>
+    <File>C:/Users/halime/Desktop/2D endless runner/2DEndlessRunner/Content/cactus.png</File>
+    <File>C:/Users/halime/Desktop/2D endless runner/2DEndlessRunner/Content/gamefont.spritefont</File>
+    <File>C:/Users/halime/Desktop/2D endless runner/2DEndlessRunner/Content/ground second.png</File>
+    <File>C:/Users/halime/Desktop/2D endless runner/2DEndlessRunner/Content/ground third.png</File>
+    <File>C:/Users/halime/Desktop/2D endless runner/2DEndlessRunner/Content/ground.png</File>
+    <File>C:/Users/halime/Desktop/2D endless runner/2DEndlessRunner/Content/player_animation second.png</File>
+    <File>C:/Users/halime/Desktop/2D endless runner/2DEndlessRunner/Content/player_animation.png</File>
+    <File>C:/Users/halime/Desktop/2D endless runner/2DEndlessRunner/Content/player.png</File>
+    <File>C:/Users/halime/Desktop/2D endless runner/2DEndlessRunner/Content/replay.png</File>
+    <File>C:/Users/halime/Desktop/2D endless runner/2DEndlessRunner/Content/rock second.png</File>
+    <File>C:/Users/halime/Desktop/2D endless runner/2DEndlessRunner/Content/rock.png</File>
+    <File>C:/Users/halime/Desktop/2D endless runner/2DEndlessRunner/Content/sky.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>player_animation_second.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

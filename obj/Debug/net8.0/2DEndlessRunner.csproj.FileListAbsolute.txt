@@ -1,0 +1,124 @@
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\2DEndlessRunner.exe
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\2DEndlessRunner.deps.json
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\2DEndlessRunner.runtimeconfig.json
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\2DEndlessRunner.dll
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\2DEndlessRunner.pdb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\NVorbis.dll
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\runtimes\android-arm\native\libopenal.so
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\runtimes\android-x64\native\libopenal.so
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\runtimes\android-x86\native\libopenal.so
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\runtimes\ios-arm64\native\libopenal.dylib
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libopenal.dylib
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libopenal.dylib
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\runtimes\osx\native\libopenal.dylib
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\runtimes\win-x64\native\openal.dll
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\obj\Debug\net8.0\2DEndlessRunner.csproj.AssemblyReference.cache
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\obj\Debug\net8.0\2DEndlessRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\obj\Debug\net8.0\2DEndlessRunner.AssemblyInfoInputs.cache
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\obj\Debug\net8.0\2DEndlessRunner.AssemblyInfo.cs
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\obj\Debug\net8.0\2DEndlessRunner.csproj.CoreCompileInputs.cache
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\obj\Debug\net8.0\2DEndles.53C44710.Up2Date
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\obj\Debug\net8.0\2DEndlessRunner.dll
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\obj\Debug\net8.0\refint\2DEndlessRunner.dll
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\obj\Debug\net8.0\2DEndlessRunner.pdb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\obj\Debug\net8.0\2DEndlessRunner.genruntimeconfig.cache
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\obj\Debug\net8.0\ref\2DEndlessRunner.dll
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\background.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\player.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\background.png
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\background.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\Content\background.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\player.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\Content.mgcb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\.mgstats
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\background.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\net8.0\Content\.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\net8.0\Content\.mgstats
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\net8.0\Content\background.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\player.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\player.png
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bird.png
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\rock.png
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\bird.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\rock.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\bird.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\rock.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bird.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\rock.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\Content\bird.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\Content\rock.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\net8.0\Content\bird.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\net8.0\Content\rock.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\ground.png
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\sky.png
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\ground.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\sky.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\ground.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\sky.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\ground.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\sky.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\Content\ground.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\Content\sky.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\net8.0\Content\ground.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\net8.0\Content\sky.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\Content\player.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\net8.0\Content\player.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\cactus.png
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\cactus.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\cactus.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\cactus.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\Content\cactus.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\net8.0\Content\cactus.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\player_animation.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\player_animation.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\player_animation.png
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\player_animation.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\Content\player_animation.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\net8.0\Content\player_animation.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\replay.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\replay.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\replay.png
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\replay.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\Content\replay.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\net8.0\Content\replay.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\gamefont.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\gamefont.spritefont
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\gamefont.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\ScoreFont.ttf
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\gamefont.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\Content\gamefont.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\net8.0\Content\gamefont.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\player_animation second.png
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\player_animation second.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\Content\player_animation second.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\net8.0\Content\player_animation second.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\player_animation_second.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\player_animation_second.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\player_animation_second.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\Content\player_animation_second.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\net8.0\Content\player_animation_second.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\rock second.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\rock second.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\rock second.png
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\rock second.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\Content\rock second.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\net8.0\Content\rock second.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\ground second.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\ground second.png
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\ground second.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\ground second.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\Content\ground second.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\net8.0\Content\ground second.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\ground third.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\ground third.png
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\ground third.mgcontent
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\ground third.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\bin\DesktopGL\Content\ground third.xnb
+C:\Users\halime\Desktop\2D endless runner\2DEndlessRunner\bin\Debug\net8.0\Content\obj\DesktopGL\net8.0\Content\ground third.mgcontent
