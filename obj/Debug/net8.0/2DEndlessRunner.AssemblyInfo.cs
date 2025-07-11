@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2DEndlessRunner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1402250892f0d0fa39879c28bc5929845bafcfe1")]
 [assembly: System.Reflection.AssemblyProductAttribute("2DEndlessRunner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2DEndlessRunner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
