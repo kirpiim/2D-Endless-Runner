@@ -1,13 +1,13 @@
-# 🐾 2D Endless Runner (MonoGame)
+#  2D Endless Runner (MonoGame)
 
 A **pixel-style endless runner** game built with **C# and MonoGame**, featuring a playful cat protagonist that jumps, crouches, and dodges obstacles in an infinite world.  
 This project demonstrates **game physics, animation handling, asset management, and collision detection** using the MonoGame framework.
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 🎮 Core Gameplay
+###  Core Gameplay
 - **Endless running mechanics** with increasing difficulty  
 - **Jump** and **crouch** controls for player movement  
 - **Dynamic obstacle generation** (rocks, etc.)  
@@ -15,13 +15,13 @@ This project demonstrates **game physics, animation handling, asset management, 
 - **Score system** that tracks how long you survive  
 - **Restart and game-over mechanics**
 
-### 🎨 Visuals & Art
+###  Visuals & Art
 - Retro **pixelated art style**  
 - All assets dynamically scaled for different resolutions  
 - Smooth **cat animation** using sprite sheets  
 - Proper **ground alignment** with vertical offsets (e.g., `rockYOffset`)
 
-### 🧠 Technical Highlights
+###  Technical Highlights
 - Developed in **C#** using the **MonoGame framework**  
 - Organized with a clean, modular architecture:
   - `Game1.cs` → Main game loop and logic  
@@ -33,7 +33,7 @@ This project demonstrates **game physics, animation handling, asset management, 
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 | Tool / Language | Purpose |
 |------------------|----------|
@@ -45,7 +45,7 @@ This project demonstrates **game physics, animation handling, asset management, 
 
 ---
 
-## 🕹️ Controls
+##  Controls
 
 | Action | Key |
 |--------|-----|
@@ -56,7 +56,7 @@ This project demonstrates **game physics, animation handling, asset management, 
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 
 ### *Prerequisites*
 Make sure you have the following installed:
