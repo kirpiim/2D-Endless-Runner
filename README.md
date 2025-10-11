@@ -4,6 +4,9 @@ A **pixel-style endless runner** game built with **C# and MonoGame**, featuring 
 This project demonstrates **game physics, animation handling, asset management, and collision detection** using the MonoGame framework.
 
 ---
+## 🎮 Gameplay Preview
+![Gameplay Screenshot](screenshots/gameplay.png)
+---
 
 ##  Features
 
@@ -20,6 +23,18 @@ This project demonstrates **game physics, animation handling, asset management, 
 - All assets dynamically scaled for different resolutions  
 - Smooth **cat animation** using sprite sheets  
 - Proper **ground alignment** with vertical offsets (e.g., `rockYOffset`)
+
+#### 📸 Visual Showcase
+
+**Start Menu**  
+![Start Menu](screenshots/start_menu.png)
+
+**Jumping Action**  
+![Jumping](screenshots/jump.png)
+
+**Game Over Screen**  
+![Game Over](screenshots/gameover.png)
+
 
 ###  Technical Highlights
 - Developed in **C#** using the **MonoGame framework**  
